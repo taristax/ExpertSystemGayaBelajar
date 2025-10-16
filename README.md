@@ -19,18 +19,22 @@ git clone https://github.com/username/ExpertSystemGayaBelajar.git
 cd ExpertSystemGayaBelajar
 ```
 
-##(Opsional) Buat virtual environment
+(Opsional) Buat virtual environment
 
 Direkomendasikan untuk membuat environment terpisah agar dependensi tidak bentrok.
+
 It’s recommended to create a separate environment to avoid dependency conflicts.
 
 python -m venv venv
 
 ##Aktifkan virtual environment
+
 Windows (PowerShell):
+
 venv\Scripts\activate
 
 Mac/Linux:
+
 source venv/bin/activate
 
 ##Install semua dependensi
@@ -88,7 +92,7 @@ Joblib — untuk menyimpan model dan scaler
 Proyek ini bersifat open-source dan dapat digunakan untuk tujuan edukasi.
 This project is open-source and free to use for educational purposes.
 
-##✨ Kontributor / Contributors
+✨ Kontributor / Contributors
 taristax
 
 ##📬 Kontak / Contact
